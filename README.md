@@ -28,7 +28,7 @@ To run the Arabic Summarizer application:
 
 1. Navigate to the Arabic Summarizer directory:
    ```
-   cd week3/Arabic\ Summarizer
+   cd week3/Arabic_Summarizer
    ```
 
 2. Run the Streamlit app:

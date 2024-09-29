@@ -1,0 +1,35 @@
+LG debuts South Korea’s first open-source AI model
+
+SEOUL – LG Group’s artificial intelligence think tank, LG AI Research, on Wednesday unveiled the third generation of its hyperscale AI multimodal Exaone, providing better performance and cost-efficiency than its predecessors in processing massive amounts of data.
+
+To contribute to the development of the AI ecosystem, LG AI Research said it has decided to release the lightweight model of Exaone 3.0 as Korea’s first open-source AI model for various research purposes.
+
+Exaone 3.0 is the second upgrade of the first iteration of Exaone that launched in December 2021. Exaone 2.0, the second generation of the AI language model, was unveiled in July 2023.
+
+Compared with its predecessor, Exaone 3.0 offers excellent results in performance, requiring 56 percent less processing time, 35 percent less memory usage and 72 percent lower operating costs.
+
+To solve the problem of power consumption triggered by AI, LG AI Research also succeeded in reducing the size of the model by 97 percent, while increasing performance compared with Exaone 1.0.
+
+LG AI Research said Exaone 3.0 ranked top globally in 13 benchmark scores, including real-world use cases, coding and math, among its global peers, such as Meta’s Llama 3.1 and Google’s Gemma 2.
+
+Since Exaone 3.0 is a bilingual model that can learn and understand both Korean and English, it also recorded the world’s most outstanding performance in Korean, the AI think tank claimed.
+
+LG AI Research used more than 60 million data from patents, software code, math, chemistry and other specialized fields to train Exaone 3.0. It aims to incorporate additional fields such as law, biology, medicine, education and various languages by the end of this year, to surpass 100 million data points to bolster the system’s performance.
+
+The AI think tank said it plans to work with LG affiliates to bring Exaone 3.0 to products and services in the second half of this year. It is also actively discussing global partnerships.
+
+LG AI Research has diversified model sizes for different applications, from the ultra-lightweight model for on-device AI to the lightweight model for general purpose, to the high-performance model for specialized applications.
+
+“As it is important to create AI that can be used in real-world industries, we plan to strengthen partnerships between LG affiliates, other companies and institutions with Exaone, which has specialized performance and cost efficiency,” LG AI Research President Bae Kyung-hoon said.
+
+“In particular, we plan to open-source this highly versatile and lightweight model so that academia and research institutes can utilize the latest generative AI technology, contributing to the AI research ecosystem and further enhancing AI competitiveness,” Bae continued.
+
+LG Group has started the open beta service of ChatExaone, an enterprise AI agent based on Exaone 3.0, for its affiliates’ employees beginning Wednesday.
+
+It provides various functions to enhance work productivity, including real-time web-based questions and answers, document and image-based questions and answers, coding and database management. LG employees can use various tasks, from searching to summation, translation, data analysis and report writing.
+
+LG AI Research said it will release an open beta service by the end of the year and regularly update it to reflect the feedback and ideas of employees and will provide the official service and mobile app according to the readiness of each LG affiliate.
+
+Meanwhile, LG has been accelerating its AI transformation for the past four years after establishing LG AI Research in December 2020. It has planned to invest 3.6 trillion won ($2.84 billion) in research and development in the AI and data field by 2026 to preoccupy future technologies and recruit talent.
+
+LG Group Chairman Koo Kwang-mo has identified AI as a future growth engine and emphasized bold investment and innovation. It has led to tangible results such as increasing the number of AI technology applications at each affiliate’s business sites and expanding external partnerships, including produaction processes, product development and customer service improvement.

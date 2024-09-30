@@ -9,7 +9,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 import os
 from typing import Dict
-import time
+import time 
 
 # Set your OpenAI API key here
 os.environ["OPENAI_API_KEY"] = "sk-pr..."
@@ -21,7 +21,7 @@ def create_vectorstore(text: str) -> FAISS:
     return FAISS.from_texts(texts, embeddings)
 
 def extract_key_info(article: str) -> Dict[str, str]:
-    llm = ChatOpenAI(temperature=0, model_name="gpt-4o")
+    llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini")
     vectorstore = create_vectorstore(article)
     retriever = vectorstore.as_retriever()
 
@@ -45,7 +45,7 @@ def extract_key_info(article: str) -> Dict[str, str]:
     return results
 
 def generate_summary(article: str, key_info: Dict[str, str]) -> str:
-    llm = ChatOpenAI(temperature=0, model_name="gpt-4o")
+    llm = ChatOpenAI(temperature=0, model_name="gpt-4o-mini")
     
     prompt = ChatPromptTemplate.from_messages([
         SystemMessage(content="""You are an expert in summarizing technical news articles. Your task is to create a concise and structured summary of the given article, focusing on the key technical information."""),
